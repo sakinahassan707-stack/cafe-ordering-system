@@ -14,7 +14,7 @@ the bugs in the original and to separate the logic into functions.
                       THE CAFE
                  13/09/2026  20:04
 ====================================================
-Customer: Mk
+Customer: Sakina
 ----------------------------------------------------
 Item                      Unit   Qty     Total
 ----------------------------------------------------
